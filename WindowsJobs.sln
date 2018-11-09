@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsJobs", "WindowsJobs\WindowsJobs.csproj", "{86113FBA-EF37-4389-B219-79CBAD4B6811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsJobs", "WindowsJobs\WindowsJobs.csproj", "{86113FBA-EF37-4389-B219-79CBAD4B6811}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXProjectWJ", "VSIXProjectWJ\VSIXProjectWJ.csproj", "{C4C76EEC-AC6D-4520-8589-21D34D5F9812}"
 EndProject
